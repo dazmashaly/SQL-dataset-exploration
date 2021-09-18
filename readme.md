@@ -1,0 +1,1 @@
+Parch and Posey, a hypothetical paper company's sales data of different types of paper (gloss, standard). The database consists of different tables linked with a database schema. If you want to create a database from scratch, you can use these excel files and set it up.
